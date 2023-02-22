@@ -1,0 +1,6 @@
+# ninja log v5
+0	5215	0	/home/yanjun/CLIM/CLNet/DCNv2/build/temp.linux-x86_64-cpython-38/home/yanjun/CLIM/CLNet/DCNv2/src/cpu/dcn_v2_im2col_cpu.o	e59a48d22ee7156a
+1	7368	0	/home/yanjun/CLIM/CLNet/DCNv2/build/temp.linux-x86_64-cpython-38/home/yanjun/CLIM/CLNet/DCNv2/src/cpu/dcn_v2_psroi_pooling_cpu.o	36453e8af633889d
+0	17131	0	/home/yanjun/CLIM/CLNet/DCNv2/build/temp.linux-x86_64-cpython-38/home/yanjun/CLIM/CLNet/DCNv2/src/cuda/dcn_v2_im2col_cuda.o	e7e1ef0d81a0e088
+1	18204	0	/home/yanjun/CLIM/CLNet/DCNv2/build/temp.linux-x86_64-cpython-38/home/yanjun/CLIM/CLNet/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.o	b40ecc6967e4272f
+1	29369	0	/home/yanjun/CLIM/CLNet/DCNv2/build/temp.linux-x86_64-cpython-38/home/yanjun/CLIM/CLNet/DCNv2/src/vision.o	ffbeb009ca6c6408
